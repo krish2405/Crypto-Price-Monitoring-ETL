@@ -1,0 +1,6 @@
+{
+  "bitcoin": { "category": "Layer 1", "launch_year": 2009 },
+  "ethereum": { "category": "Layer 1", "launch_year": 2015 },
+  "solana": { "category": "Layer 1", "launch_year": 2020 },
+  "dogecoin": { "category": "Meme", "launch_year": 2013 }
+}
