@@ -62,3 +62,178 @@
 2025-12-06 02:31:16,821 -INFO- hiting api
 2025-12-06 02:31:17,627 -INFO- Loading metadata
 2025-12-06 02:31:17,627 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:28:30,233 -INFO- Pipeline Started
+2025-12-06 03:28:30,233 -INFO- Extraction begin
+2025-12-06 03:28:30,234 -INFO- hiting api
+2025-12-06 03:28:30,796 -INFO- Loading metadata
+2025-12-06 03:28:30,796 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:28:30,797 -INFO- Transformation start
+2025-12-06 03:29:10,012 -INFO- Pipeline Started
+2025-12-06 03:29:10,012 -INFO- Extraction begin
+2025-12-06 03:29:10,012 -INFO- hiting api
+2025-12-06 03:29:10,605 -INFO- Loading metadata
+2025-12-06 03:29:10,605 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:29:10,605 -INFO- Transformation start
+2025-12-06 03:29:59,666 -INFO- Pipeline Started
+2025-12-06 03:29:59,666 -INFO- Extraction begin
+2025-12-06 03:29:59,666 -INFO- hiting api
+2025-12-06 03:29:59,853 -INFO- Loading metadata
+2025-12-06 03:29:59,853 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:29:59,854 -INFO- Transformation start
+2025-12-06 03:30:11,687 -INFO- Pipeline Started
+2025-12-06 03:30:11,687 -INFO- Extraction begin
+2025-12-06 03:30:11,687 -INFO- hiting api
+2025-12-06 03:30:12,368 -INFO- Loading metadata
+2025-12-06 03:30:12,368 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:30:12,368 -INFO- Transformation start
+2025-12-06 03:30:49,854 -INFO- Pipeline Started
+2025-12-06 03:30:49,854 -INFO- Extraction begin
+2025-12-06 03:30:49,854 -INFO- hiting api
+2025-12-06 03:30:50,065 -INFO- Loading metadata
+2025-12-06 03:30:50,065 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:30:50,065 -INFO- Transformation start
+2025-12-06 03:30:50,066 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:31:24,634 -INFO- Pipeline Started
+2025-12-06 03:31:24,635 -INFO- Extraction begin
+2025-12-06 03:31:24,635 -INFO- hiting api
+2025-12-06 03:31:25,382 -INFO- Loading metadata
+2025-12-06 03:31:25,383 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:31:25,383 -INFO- Transformation start
+2025-12-06 03:31:25,384 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:31:25,385 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:35:42,667 -INFO- Pipeline Started
+2025-12-06 03:35:42,667 -INFO- Extraction begin
+2025-12-06 03:37:32,229 -INFO- Pipeline Started
+2025-12-06 03:37:32,229 -INFO- Extraction begin
+2025-12-06 03:55:19,863 -INFO- Pipeline Started
+2025-12-06 03:55:19,863 -INFO- Extraction begin
+2025-12-06 03:55:19,863 -INFO- hiting api
+2025-12-06 03:55:20,639 -INFO- Loading metadata
+2025-12-06 03:55:20,639 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:55:20,639 -INFO- Transformation start
+2025-12-06 03:55:20,640 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:55:20,641 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:56:18,129 -INFO- Pipeline Started
+2025-12-06 03:56:18,129 -INFO- Extraction begin
+2025-12-06 03:56:18,129 -INFO- hiting api
+2025-12-06 03:56:18,659 -INFO- Loading metadata
+2025-12-06 03:56:18,659 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:56:18,659 -INFO- Transformation start
+2025-12-06 03:56:18,660 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:56:18,661 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:57:11,267 -INFO- Pipeline Started
+2025-12-06 03:57:11,267 -INFO- Extraction begin
+2025-12-06 03:57:11,267 -INFO- hiting api
+2025-12-06 03:57:11,845 -INFO- Loading metadata
+2025-12-06 03:57:11,845 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:57:11,845 -INFO- Transformation start
+2025-12-06 03:57:11,846 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:57:11,847 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:57:55,113 -INFO- Pipeline Started
+2025-12-06 03:57:55,113 -INFO- Extraction begin
+2025-12-06 03:57:55,113 -INFO- hiting api
+2025-12-06 03:57:55,916 -INFO- Loading metadata
+2025-12-06 03:57:55,917 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:57:55,917 -INFO- Transformation start
+2025-12-06 03:57:55,918 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:57:55,918 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:58:04,389 -INFO- Pipeline Started
+2025-12-06 03:58:04,389 -INFO- Extraction begin
+2025-12-06 03:58:04,389 -INFO- hiting api
+2025-12-06 03:58:04,600 -INFO- Loading metadata
+2025-12-06 03:58:04,601 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:58:04,601 -INFO- Transformation start
+2025-12-06 03:58:04,601 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:58:04,602 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:58:25,544 -INFO- Pipeline Started
+2025-12-06 03:58:25,544 -INFO- Extraction begin
+2025-12-06 03:58:25,544 -INFO- hiting api
+2025-12-06 03:58:25,760 -INFO- Loading metadata
+2025-12-06 03:58:25,760 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:58:25,760 -INFO- Transformation start
+2025-12-06 03:58:25,761 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:58:25,762 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:58:39,222 -INFO- Pipeline Started
+2025-12-06 03:58:39,222 -INFO- Extraction begin
+2025-12-06 03:58:39,222 -INFO- hiting api
+2025-12-06 03:58:39,399 -INFO- Loading metadata
+2025-12-06 03:58:39,399 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:58:39,399 -INFO- Transformation start
+2025-12-06 03:58:39,400 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:58:39,401 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:58:50,526 -INFO- Pipeline Started
+2025-12-06 03:58:50,526 -INFO- Extraction begin
+2025-12-06 03:58:50,526 -INFO- hiting api
+2025-12-06 03:58:50,740 -INFO- Loading metadata
+2025-12-06 03:58:50,740 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:58:50,740 -INFO- Transformation start
+2025-12-06 03:58:50,741 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:58:50,742 -INFO- Writting in rypto_high_value.cs
+2025-12-06 03:59:32,773 -INFO- Pipeline Started
+2025-12-06 03:59:32,773 -INFO- Extraction begin
+2025-12-06 03:59:32,773 -INFO- hiting api
+2025-12-06 03:59:33,319 -INFO- Loading metadata
+2025-12-06 03:59:33,319 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 03:59:33,319 -INFO- Transformation start
+2025-12-06 03:59:33,319 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 03:59:33,320 -INFO- Writting in rypto_high_value.cs
+2025-12-06 04:00:21,548 -INFO- Pipeline Started
+2025-12-06 04:00:21,549 -INFO- Extraction begin
+2025-12-06 04:00:21,549 -INFO- hiting api
+2025-12-06 04:00:22,088 -INFO- Loading metadata
+2025-12-06 04:00:22,088 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 04:00:22,088 -INFO- Transformation start
+2025-12-06 04:00:22,088 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 04:00:22,089 -INFO- Writting in rypto_high_value.cs
+2025-12-06 04:01:00,350 -INFO- Pipeline Started
+2025-12-06 04:01:00,350 -INFO- Extraction begin
+2025-12-06 04:01:00,350 -INFO- hiting api
+2025-12-06 04:01:00,880 -INFO- Loading metadata
+2025-12-06 04:01:00,880 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 04:01:00,881 -INFO- Transformation start
+2025-12-06 04:01:00,881 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 04:01:00,881 -INFO- Writting in rypto_high_value.cs
+2025-12-06 04:03:23,049 -INFO- Pipeline Started
+2025-12-06 04:03:23,049 -INFO- Extraction begin
+2025-12-06 04:03:23,049 -INFO- hiting api
+2025-12-06 04:03:23,733 -INFO- Loading metadata
+2025-12-06 04:03:23,733 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 04:03:23,733 -INFO- Transformation start
+2025-12-06 04:03:23,734 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 04:03:23,735 -INFO- Writting in rypto_high_value.cs
+2025-12-06 04:03:23,745 -INFO- Etl Completed
+2025-12-06 04:03:46,185 -INFO- Pipeline Started
+2025-12-06 04:03:46,185 -INFO- Extraction begin
+2025-12-06 04:03:46,185 -INFO- hiting api
+2025-12-06 04:03:46,346 -INFO- Loading metadata
+2025-12-06 04:03:46,346 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 04:03:46,347 -INFO- Transformation start
+2025-12-06 04:03:46,347 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 04:03:46,349 -INFO- Writting in rypto_high_value.cs
+2025-12-06 04:03:46,358 -INFO- Etl Completed
+2025-12-06 04:04:04,529 -INFO- Pipeline Started
+2025-12-06 04:04:04,529 -INFO- Extraction begin
+2025-12-06 04:04:04,529 -INFO- hiting api
+2025-12-06 04:04:05,068 -INFO- Loading metadata
+2025-12-06 04:04:05,069 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 04:04:05,069 -INFO- Transformation start
+2025-12-06 04:04:05,070 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 04:04:05,072 -INFO- Writting in rypto_high_value.cs
+2025-12-06 04:04:05,081 -INFO- Etl Completed
+2025-12-06 04:05:24,490 -INFO- Pipeline Started
+2025-12-06 04:05:24,490 -INFO- Extraction begin
+2025-12-06 04:05:24,490 -INFO- hiting api
+2025-12-06 04:05:25,002 -INFO- Loading metadata
+2025-12-06 04:05:25,003 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 04:05:25,003 -INFO- Transformation start
+2025-12-06 04:05:25,004 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 04:05:25,005 -INFO- Writting in rypto_high_value.cs
+2025-12-06 04:05:38,870 -INFO- Pipeline Started
+2025-12-06 04:05:38,870 -INFO- Extraction begin
+2025-12-06 04:05:38,870 -INFO- hiting api
+2025-12-06 04:05:39,030 -INFO- Loading metadata
+2025-12-06 04:05:39,030 -INFO- loaded from file {'bitcoin': {'category': 'Layer 1', 'launch_year': 2009}, 'ethereum': {'category': 'Layer 1', 'launch_year': 2015}, 'solana': {'category': 'Layer 1', 'launch_year': 2020}, 'dogecoin': {'category': 'Meme', 'launch_year': 2013}}
+2025-12-06 04:05:39,030 -INFO- Transformation start
+2025-12-06 04:05:39,030 -INFO- Writting in crypto_cleaned.csv
+2025-12-06 04:05:39,031 -INFO- Writting in rypto_high_value.cs
+2025-12-06 04:05:39,041 -INFO- Etl Completed

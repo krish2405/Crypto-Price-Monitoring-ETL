@@ -1,5 +1,7 @@
 import logging
 import requests
+import json
+import datetime
 
 logging.basicConfig(
     filename='etl.log',
